@@ -1,8 +1,8 @@
 {
   "pokemans": [
-    {"id": "001", "name": "Mimiablo"},
-    {"id": "002", "name": "Picamimi"},
-    {"id": "003", "name": "Kappa"},
-    {"id": "004", "name": "Puddinrin"}
-   ]
+    {
+      "id": "001",
+      "name": "Mimiablo"
+    }
+  ]
 }
