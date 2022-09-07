@@ -1,19 +1,19 @@
 {
   "pokemans": [
     {
-      "id": "001",
+      "id": "1",
       "name": "Mimiablo"
     },
     {
-      "id": "002",
+      "id": "2",
       "name": "Picamimi"
     },
     {
-      "id": "003",
+      "id": "3",
       "name": "Kappa"
     },
     {
-      "id": "004",
+      "id": "4",
       "name": "Puddinrin"
     }
   ]
